@@ -163,7 +163,7 @@ INSERT INTO `countries` (`id`, `name`, `full_name`, `iso2`, `iso3`, `continent_n
 (127, 'Lithuania', 'Republic of Lithuania', 'LT', 'LTU', 'Europe', 'Litas', 'LTL', 'Lt', '370', '440', '^(?:LT)*(d{5})$', 'yes', '.lt', 'LT.png', 1),
 (128, 'Luxembourg', 'Grand Duchy of Luxembourg', 'LU', 'LUX', 'Europe', 'Euro', 'EUR', '€', '352', '442', '^(d{4})$', 'yes', '.lu', 'LU.png', 1),
 (129, 'Macao', 'The Macao Special Administrative Region', 'MO', 'MAC', 'Asia', 'Pataca', 'MOP', 'MOP', '853', '446', '', 'no', '.mo', 'MO.png', 1),
-(130, 'Macedonia', 'The Former Yugoslav Republic of Macedonia', 'MK', 'MKD', 'Europe', 'Denar', 'MKD', 'ден', '389', '807', '^(d{4})$', 'yes', '.mk', 'MK.png', 1),
+(130, 'North Macedonia', 'The Former Yugoslav Republic of Macedonia', 'MK', 'MKD', 'Europe', 'Denar', 'MKD', 'ден', '389', '807', '^(d{4})$', 'yes', '.mk', 'MK.png', 1),
 (131, 'Madagascar', 'Republic of Madagascar', 'MG', 'MDG', 'Africa', 'Ariary', 'MGA', '', '261', '450', '^(d{3})$', 'yes', '.mg', 'MG.png', 1),
 (132, 'Malawi', 'Republic of Malawi', 'MW', 'MWI', 'Africa', 'Kwacha', 'MWK', 'MK', '265', '454', '', 'yes', '.mw', 'MW.png', 1),
 (133, 'Malaysia', 'Malaysia', 'MY', 'MYS', 'Asia', 'Ringgit', 'MYR', 'RM', '60', '458', '^(d{5})$', 'yes', '.my', 'MY.png', 1),

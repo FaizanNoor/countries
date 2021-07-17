@@ -112,7 +112,7 @@ INSERT INTO `countries` (`id`, `name`, `full_name`, `iso2`, `iso3`, `continent_n
 (76, 'France', 'French Republic', 'FR', 'FRA', 'Europe', 'Euro', 'EUR', '€', '33', '250', '^(d{5})$', 'yes', '.fr', 'FR.png', 1),
 (77, 'French Guiana', 'French Guiana', 'GF', 'GUF', 'South America', 'Euro', 'EUR', '€', '594', '254', '^((97)|(98)3d{2})$', 'no', '.gf', 'GF.png', 1),
 (78, 'French Polynesia', 'French Polynesia', 'PF', 'PYF', 'Australia/Oceania', 'Franc', 'XPF', '', '689', '258', '^((97)|(98)7d{2})$', 'no', '.pf', 'PF.png', 1),
-(79, 'French Southern Territories', 'French Southern Territories', 'TF', 'ATF', 'Antarctica', 'Euro  ', 'EUR', '€', NULL, '260', '', 'no', '.tf', 'TF.png', 1),
+(79, 'French Southern Territories', 'French Southern Territories', 'TF', 'ATF', 'Antarctica', 'Euro', 'EUR', '€', '262', '260', '', 'no', '.tf', 'TF.png', 1),
 (80, 'Gabon', 'Gabonese Republic', 'GA', 'GAB', 'Africa', 'Franc', 'XAF', 'FCF', '241', '266', '', 'yes', '.ga', 'GA.png', 1),
 (81, 'Gambia', 'Republic of The Gambia', 'GM', 'GMB', 'Africa', 'Dalasi', 'GMD', 'D', '220', '270', '', 'yes', '.gm', 'GM.png', 1),
 (82, 'Georgia', 'Georgia', 'GE', 'GEO', 'Asia', 'Lari', 'GEL', '', '995', '268', '^(d{4})$', 'yes', '.ge', 'GE.png', 1),
